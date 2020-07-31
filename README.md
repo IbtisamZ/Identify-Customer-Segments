@@ -25,4 +25,4 @@ The files used in the project:
 * pandas
 * Sklearn / scikit-learn
 * Matplotlib (for data visualization)
-*Seaborn (for data visualization)
+* Seaborn (for data visualization)
