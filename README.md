@@ -18,3 +18,11 @@ The files used in the project:
 - `Udacity_CUSTOMERS_Subset.csv` : Demographic data for customers of a mail-order company.
 - `Data_Dictionary.md` : Information file about the features in the provided datasets.
 - `AZDIAS_Feature_Summary.csv` : Summary of feature attributes for demographic data.
+
+## Libraries used 
+
+* NumPy
+* pandas
+* Sklearn / scikit-learn
+* Matplotlib (for data visualization)
+*Seaborn (for data visualization)
